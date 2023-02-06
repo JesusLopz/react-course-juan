@@ -9,7 +9,7 @@ client = "Pablo";
 
 //it cannot be innitialized without a value
 
-const price;
+//const price;
 
 console.log(client);
 console.log(discountPrice);
