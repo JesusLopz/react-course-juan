@@ -30,10 +30,10 @@ const auth = true;
 const user = "Juan";
 
 const newObject = {
-    // auth: auth,
-    // user: user
-    auth,
-    user
-}
+  // auth: auth,
+  // user: user
+  auth,
+  user,
+};
 
-console.table(newObject)
+console.table(newObject);
